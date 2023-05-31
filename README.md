@@ -1,6 +1,6 @@
-# Hi there 👋
+### Hi there 👋
 
-### I'm Gabriel Freddi
+# I'm Gabriel Freddi
 
 Here are some facts about me:
 
