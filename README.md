@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**GabrielBifano/GabrielBifano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Gabriel Freddi
 
-Here are some ideas to get you started:
+Here are some facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 I live in Brazil, Minas Gerais 📍
+- 👨‍🏭 I’m currently working on **Fastdezine**, developing front-end and back-end applications to allow scalability ⤴️.
+- 👨‍🎓 I'm also currently learning compilers, algorithms, neural networks, and more...
+- 🫀 I’m looking for learning and working opportunities
+- 📫 How to reach me:
+  * 📧 Email: gabrielfev@outlook.com
+  * ☎️ Phone: +55 31 99404 4695
+- ⚡ Fun fact: Me and Socrates are very similar. We have never wrote a book.
+
+
