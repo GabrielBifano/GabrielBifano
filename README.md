@@ -5,7 +5,7 @@
 Here are some facts about me:
 
 - 🇧🇷 I live in Brazil, Minas Gerais 📍
-- 👨‍🏭 I’m currently working on **Fastdezine**, developing front-end and back-end applications to allow scalability ⤴️.
+- 👨‍🏭 I’m currently researching at **UFMG**, developing AI for cancer prognosis ⤴️.
 - 👨‍🎓 I'm also currently learning compilers, algorithms, neural networks, and more...
 - 🫀 I’m looking for learning and working opportunities
 - 📫 How to reach me:
